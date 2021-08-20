@@ -1,0 +1,50 @@
+/*Menu principal*/
+.navbar {
+    background-color:#2C3A47 ;
+}
+
+
+/* Primeira Section - (Portfólio) */
+
+.portfolio {
+    background-color: #1e272e;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+/* Segunda Section - (Sobre mim) */
+
+.sobremim {
+    background-color: #1e272e;
+}
+
+/* Terceira Section - (Formação) */
+
+.formacao {
+    background-color: #1e272e;
+}
+
+.margin-sobre {
+    padding-top: 10px;
+}
+
+
+
+
+
+/* Font */
+
+h3 {
+    color:white;
+    padding-bottom: 5px;
+}
+
+/* Footer */
+
+.bg-footer {
+    background-color: black; 
+    color: white;
+}
